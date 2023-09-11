@@ -22,3 +22,5 @@ InternLM-123B 12项性能位居第一，中国最接近 GPT-4 的大模型来了
 如何评价超越Llama的Falcon模型？碾压LLaMA，「猎鹰」彻底开源！400亿参数，万亿token训练，霸榜Hugging Face https://www.zhihu.com/question/605021170
 
 LLM推理优化技术综述：KVCache、PageAttention、FlashAttention、MQA、GQA https://zhuanlan.zhihu.com/p/655325832
+
+如何看待FLANv2和LIMA关于LLM的指令微调的不同观点？https://www.zhihu.com/question/612864136/answer/3206817387
